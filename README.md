@@ -10,8 +10,7 @@ This repository is part of my preparation for Software Engineer and Java Backend
 
 ### Data Structures
 
-* Arrays
-* Strings
+* Arrays & String
 * Linked Lists
 * Stacks
 * Queues
@@ -40,8 +39,7 @@ This repository is part of my preparation for Software Engineer and Java Backend
 ```text
 java-dsa/
 │
-├── Arrays/
-├── Strings/
+├── Arrays & String
 ├── LinkedList/
 ├── Stack/
 ├── Queue/
