@@ -348,9 +348,38 @@ Time:
 O(n²)
 ```
 
----
+## 9. Character Utility Methods
 
-## 9. Common Interview Checklist
+### Check if Character is Letter or Digit
+
+```java
+Character.isLetterOrDigit(ch)
+```
+
+### Convert Character to Lowercase
+
+```java
+Character.toLowerCase(ch)
+```
+
+## 10. Two Pointer Templates
+
+### Two Pointers (Start and End)
+
+```java
+int left = 0;
+int right = s.length() - 1;
+
+while (left < right) {
+
+    // process
+
+    left++;
+    right--;
+}
+```
+
+## Common Interview Checklist
 
 Before Coding Ask:
 
@@ -359,3 +388,5 @@ Before Coding Ask:
 3. What information do I actually need?
 4. Can I maintain that information while traversing?
 5. Is there a known pattern?
+
+---
