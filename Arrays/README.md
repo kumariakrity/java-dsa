@@ -17,6 +17,7 @@ Preparing for Java Backend Developer / Software Engineer Interviews.
 | ------ | -------- | ------------------------- | -------------------------------------- |
 | ✅      | 1768     | Merge Strings Alternately | Two Pointers + StringBuilder           |
 | ✅      | 125      | Valid Palindrome          | Two Pointers + Skip Invalid Characters |
+| ✅ | 242 | Valid Anagram | Frequency Counting |
   
 ## Patterns Learned
 * Running Best Candidate
@@ -24,3 +25,4 @@ Preparing for Java Backend Developer / Software Engineer Interviews.
 * Running Minimum
 * Two Pointer Traversal
 * Two Pointers + Skip Invalid Characters
+* Frequency Counting
